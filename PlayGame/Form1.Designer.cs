@@ -38,7 +38,7 @@
             // 
             this.CreditDisplay.AutoSize = true;
             this.CreditDisplay.Font = new System.Drawing.Font("mono 07_65", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CreditDisplay.Location = new System.Drawing.Point(246, 307);
+            this.CreditDisplay.Location = new System.Drawing.Point(250, 306);
             this.CreditDisplay.Name = "CreditDisplay";
             this.CreditDisplay.Size = new System.Drawing.Size(327, 31);
             this.CreditDisplay.TabIndex = 0;
