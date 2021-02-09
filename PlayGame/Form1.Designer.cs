@@ -47,7 +47,7 @@
             // StartButton
             // 
             this.StartButton.Font = new System.Drawing.Font("mono 07_66", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.StartButton.Location = new System.Drawing.Point(330, 206);
+            this.StartButton.Location = new System.Drawing.Point(309, 206);
             this.StartButton.Name = "StartButton";
             this.StartButton.Size = new System.Drawing.Size(126, 66);
             this.StartButton.TabIndex = 1;
